@@ -10,7 +10,7 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on ... Any of project
 - 🤔 I’m looking for help with ... Vuejs 
 - 💬 Ask me about ... What ever.... :laughing:
-- 📫 How to reach me: ... [Insta- vivek.agent47](https://www.instagram.com/vivek.agent47/)
+- 📫 How to reach me: ... Insta -> [vivek.agent47](https://www.instagram.com/vivek.agent47/)
 - 😄 Pronouns: ... He
 - ⚡ Fun fact: ... Play PUBG when get bored
 
