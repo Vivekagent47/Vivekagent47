@@ -15,4 +15,4 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: ... Play PUBG when get bored
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vivekagent47&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=333333">
+<img src="https://github-readme-stats.vercel.app/api?username=Vivekagent47&&show_icons=true&title_color=ffffff&icon_color=03A87C&text_color=707070&bg_color=222222">
