@@ -35,7 +35,7 @@ Here are some ideas to get you started:
     <img alt="VueJs" width="26px" src="https://vuejs.org/images/logo.png">
 </div> -->
 
-<img src="https://raw.githubusercontent.com/Vivekagent47/Vivekagent47/817cad6bcaf48a818f4eaf36391ddf180a79b531/Resume.svg"><br>
+<img src="https://raw.githubusercontent.com/Vivekagent47/Vivekagent47/f77cf7a8a932a4493c140e80f46cb479d7d0e7f1/Resume.svg"><br>
 <img src="https://github-readme-stats.vercel.app/api?username=Vivekagent47&&show_icons=true&title_color=ffffff&icon_color=03A87C&text_color=707070&bg_color=222222">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekagent47&layout=compact&bg_color=222222&text_color=707070">
 
