@@ -4,7 +4,7 @@
 
 ### Hi, I'm Vivek Chauhan 👋
 
-![Twitter Follow](https://img.shields.io/twitter/follow/itsVivEKagent?color=1DA1F2&logo=Twitter&style=for-the-badge)
+[![Twitter Follow](https://img.shields.io/twitter/follow/itsVivEKagentr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/itsVivEKagen)
 <!-- **Vivekagent47/Vivekagent47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
@@ -29,6 +29,7 @@ Here are some ideas to get you started:
     <img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
     <img alt="Github" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
     <img alt="VueJs" width="26px" src="https://vuejs.org/images/logo.png">
+    <img alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png">
 </div>
 
 <!-- <img src="https://raw.githubusercontent.com/Vivekagent47/Vivekagent47/f77cf7a8a932a4493c140e80f46cb479d7d0e7f1/Resume.svg"><br> -->
