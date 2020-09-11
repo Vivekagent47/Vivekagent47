@@ -4,7 +4,7 @@
 
 ### Hi, I'm Vivek Chauhan 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/itsVivEKagentr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/itsVivEKagen)
+![Twitter Follow](https://img.shields.io/twitter/follow/itsVivEKagent?color=1DA1F2&logo=Twitter&style=for-the-badge)
 <!-- **Vivekagent47/Vivekagent47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
