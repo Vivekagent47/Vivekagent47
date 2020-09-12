@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 <br/>
 
 ### Languages and Tools:
-
 <div display="flex">
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white">
@@ -36,8 +35,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white" />
 </div>
-
-<br/>
 <br/>
 
 ### Machine:
@@ -46,8 +43,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/intel-core%20i5%208th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx1050-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </div>
-
-<br>
 <br>
 
 ### Gaming:
@@ -59,7 +54,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Call%20Of%20Duty%20WARZONE-%23000000.svg?&style=for-the-badge" />
   <img src="https://img.shields.io/badge/counter%20strike-%23000000.svg?&style=for-the-badge&logo=counter-strike" />
 </div>
-
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Vivekagent47&&show_icons=true&title_color=ffffff&icon_color=03A87C&text_color=707070&bg_color=222222">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekagent47&layout=compact&bg_color=222222&text_color=707070">
