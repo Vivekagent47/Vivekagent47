@@ -2,7 +2,7 @@
   <img src="https://github.com/chandrikadeb7/chandrikadeb7/blob/master/readme.gif">
 </p>
 
-### Hi, I'm Vivek Chauhan 👋
+# Hi, I'm Vivek Chauhan 👋
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/itsVivEKagent)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/vivek-chauhan-769028174/)
@@ -56,6 +56,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 
+### GitHub Status:
 <img src="https://github-readme-stats.vercel.app/api?username=Vivekagent47&&show_icons=true&title_color=ffffff&icon_color=03A87C&text_color=707070&bg_color=222222">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekagent47&layout=compact&bg_color=222222&text_color=707070">
 
