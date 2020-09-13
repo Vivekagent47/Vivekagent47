@@ -1,5 +1,5 @@
 <p>
-  <img src="https://github.com/chandrikadeb7/chandrikadeb7/blob/master/readme.gif">
+  <img src="https://raw.githubusercontent.com/Vivekagent47/Vivekagent47/master/hello.svg">
 </p>
 
 # Hi, I'm Vivek Chauhan 👋
