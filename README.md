@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Vivekagent47/Vivekagent47/master/hello.svg">
 </p>
 
-# Hi, I'm Vivek Chauhan 👋
+# नमस्ते (Namaste)🙏🏻, I'm Vivek Chauhan! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/itsVivEKagent)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/vivek-chauhan-769028174/)
