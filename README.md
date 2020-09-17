@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... Vuejs and Python
 - 👯 I’m looking to collaborate on ... Any of project
 - 🤔 I’m looking for help with ... Vuejs 
-- 💬 Ask me about ... What ever.... :laughing:
+- 💬 Ask me about ... What ever you want to ask.... :laughing:
 - 😄 Pronouns: ... He
-- ⚡ Fun fact: ... Play PUBG when get bored
+- ⚡ Fun fact: ... Play games and listen music when get bored
 <br/>
 
 ### Languages and Tools:
