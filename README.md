@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... Not working
 - 🌱 I’m currently learning ... Vuejs and Python
 - 👯 I’m looking to collaborate on ... Any of project
-- 🤔 I’m looking for help with ... Vuejs 
 - 💬 Ask me about ... What ever you want to ask.... :laughing:
 - 😄 Pronouns: ... He
 - ⚡ Fun fact: ... Play games and listen music when get bored
@@ -59,6 +58,6 @@ Here are some ideas to get you started:
 <br>
 
 <details>
-  <summary>:zap: Languages Used</summary>
+  <summary>:zap: Languages I Used to Code</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekagent47&layout=compact&bg_color=ffffff&text_color=333333">
 </details>
