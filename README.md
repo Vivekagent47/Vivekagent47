@@ -10,15 +10,18 @@
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/vivek.chauhan.942145)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://vivekagent47.github.io/)
 <!-- **Vivekagent47/Vivekagent47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<img align="right" alt="GIF" src="gif.gif" width="300"/>
 
 Here are some ideas to get you started:
 - :school: I'm currently studing in ... Dr. Ambedker Institute of Technology for Handicapped, Kanpur, India
-- 🔭 I’m currently working on ... Not working
-- 🌱 I’m currently learning ... Vuejs and Python
+- 🔭 I’m currently working on ... ReactJs and VueJS
+- 🌱 I’m currently learning ... Web Development
 - 👯 I’m looking to collaborate on ... Any of project
 - 💬 Ask me about ... What ever you want to ask.... :laughing:
 - 😄 Pronouns: ... He
-- ⚡ Fun fact: ... Play games and listen music when get bored
+<!-- - ⚡ Fun fact: ... Play games and listen music when get bored -->
+- ☕ I belive, a perfect cup of tea can be the ultimate solution for any stress.
+- 💘 A talk with mom, makes me feel good and energitic.
 <br/>
 
 ### Languages and Tools:
