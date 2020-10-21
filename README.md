@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Any of project
 - 💬 Ask me about ... What ever you want to ask.... :laughing:
 - 😄 Pronouns: ... He
-<!-- - ⚡ Fun fact: ... Play games and listen music when get bored -->
+- ⚡ Music ... This is best ever thing.
 - ☕ I belive, a perfect cup of tea can be the ultimate solution for any stress.
 - 💘 A talk with mom, makes me feel good and energitic.
 <br/>
