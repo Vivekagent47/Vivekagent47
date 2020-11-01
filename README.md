@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Any of project
 - 💬 Ask me about ... What ever you want to ask.... :laughing:
 - 😄 Pronouns: ... He
-- ⚡ Music ... This is best ever thing.
-- ☕ I belive, a perfect cup of tea can be the ultimate solution for any stress.
 - 💘 A talk with mom, makes me feel good and energitic.
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
