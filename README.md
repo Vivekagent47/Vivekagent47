@@ -60,10 +60,10 @@
 
 <details>
   <summary>:zap: My Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=Vivekagent47&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vivekagent47&show_icons=true&bg_color=0d1117&icon_color=ffffff&text_color=fff">
 </details>
 
 <details>
   <summary>:zap: Languages I Used to Code</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekagent47&layout=compact&bg_color=ffffff&text_color=333333">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivekagent47&layout=compact&bg_color=0d1117&text_color=fff">
 </details>
