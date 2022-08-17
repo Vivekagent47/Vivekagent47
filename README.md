@@ -58,7 +58,7 @@
 
 <details>
   <summary>:zap: My Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=Vivekagent47&show_icons=true&bg_color=0d1117&icon_color=ffffff&text_color=fff">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vivekagent47&show_icons=true&bg_color=0d1117&icon_color=ffffff&text_color=fff&border_color=0d1117">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vivekagent47&theme=dark&hide_border=true">
 </details>
 
