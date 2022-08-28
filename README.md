@@ -12,7 +12,7 @@
 <!-- **Vivekagent47/Vivekagent47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <img align="right" alt="GIF" src="gif.gif" width="300"/>
 
-- :school: I'm currently studing in ... Dr. Ambedker Institute of Technology for Handicapped, Kanpur, India
+- :school: Working from Home
 - 🔭 I’m currently working on ... ReactJs and VueJS
 - 🌱 I’m currently learning ... Web Development
 - 👯 I’m looking to collaborate on ... Any of project
