@@ -1,6 +1,6 @@
-<p>
+<!-- <p>
   <img src="https://raw.githubusercontent.com/Vivekagent47/Vivekagent47/master/hello.svg">
-</p>
+</p> -->
 
 # नमस्ते (Namaste)🙏🏻, I'm Vivek Chauhan! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
